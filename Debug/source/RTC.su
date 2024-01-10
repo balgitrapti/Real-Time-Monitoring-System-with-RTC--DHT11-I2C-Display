@@ -1,0 +1,6 @@
+D:\1st_Sem\PES\Backup\PES_Backup\Final_Project\CMSIS/core_cm0plus.h:745:22:NVIC_EnableIRQ	16	static
+D:\1st_Sem\PES\Backup\PES_Backup\Final_Project\CMSIS/core_cm0plus.h:791:22:NVIC_ClearPendingIRQ	16	static
+D:\1st_Sem\PES\Backup\PES_Backup\Final_Project\CMSIS/core_cm0plus.h:804:22:NVIC_SetPriority	24	static
+../source/RTC.c:69:6:init_RTC	8	static
+../source/RTC.c:125:6:RTC_Seconds_IRQHandler	8	static
+../source/RTC.c:146:6:clock_update	16	static

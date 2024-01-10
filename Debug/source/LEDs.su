@@ -1,0 +1,8 @@
+../source/LEDs.c:37:6:init_led	8	static
+../source/LEDs.c:68:6:control_red_led	16	static
+../source/LEDs.c:85:6:control_green_led	16	static
+../source/LEDs.c:102:6:control_yellow_led	16	static
+../source/LEDs.c:119:6:control_blue_led	16	static
+../source/LEDs.c:140:6:control_white_led	16	static
+../source/LEDs.c:168:6:test_led	16	static
+../source/LEDs.c:208:6:Control_WB_LEDs	32	static

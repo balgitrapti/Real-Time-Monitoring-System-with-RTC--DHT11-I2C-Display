@@ -1,0 +1,4 @@
+../source/PWM.c:35:6:init_led	8	static
+../source/PWM.c:46:6:control_red_led	16	static
+../source/PWM.c:67:6:control_blue_led	16	static
+../source/PWM.c:88:6:control_white_led	16	static

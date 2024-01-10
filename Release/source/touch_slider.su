@@ -1,0 +1,2 @@
+../source/touch_slider.c:41:6:init_touch_slide	8	static
+../source/touch_slider.c:62:5:touch_scan_LH	16	static

@@ -1,0 +1,6 @@
+../source/processor.c:71:6:reset_handler	16	static
+../source/processor.c:86:6:echo_handler	24	static
+../source/processor.c:117:6:humidity_handler	16	static
+../source/processor.c:148:6:temp_handler	16	static
+../source/processor.c:178:6:help_handler	24	static
+../source/processor.c:198:6:process_command	168	static

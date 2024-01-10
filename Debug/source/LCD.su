@@ -1,0 +1,7 @@
+../source/LCD.c:66:6:init_LCD	8	static
+../source/LCD.c:87:6:send_lcd	32	static
+../source/LCD.c:134:6:send_command_lcd	16	static
+../source/LCD.c:147:6:put_str_lcd	24	static
+../source/LCD.c:164:6:delay_ms	24	static
+../source/LCD.c:180:6:put_char_lcd	16	static
+../source/LCD.c:211:6:print_data_lcd	24	static

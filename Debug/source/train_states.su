@@ -1,0 +1,11 @@
+../source/train_states.c:50:6:polling_for_emergency	8	static
+../source/train_states.c:80:7:get_state	24	static
+../source/train_states.c:130:6:dump_state	16	static
+../source/train_states.c:156:6:states_led_on	16	static
+../source/train_states.c:247:6:fn_terminal_t_to_course_a	8	static
+../source/train_states.c:299:6:fn_course_a_to_terminal_t	8	static
+../source/train_states.c:351:6:fn_course_a_to_course_b	8	static
+../source/train_states.c:403:6:fn_course_b_to_course_a	8	static
+../source/train_states.c:454:6:fn_course_b_to_shed_s	8	static
+../source/train_states.c:504:6:fn_shed_s_to_course_b	8	static
+../source/train_states.c:554:6:fn_emergency	16	static
